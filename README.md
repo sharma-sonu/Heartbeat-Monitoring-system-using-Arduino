@@ -1,2 +1,15 @@
 # Heartbeat-Monitoring-system-using-Arduino
-This project uses an Arduino and pulse sensor to measure and display heart rate data in real-time. It features an easy-to-use setup, making it ideal for learning Arduino programming and sensor integration. Required components include an Arduino board, pulse sensor, optional LCD display, and jumper wires. 
+# Overview
+This project utilizes an Arduino board and a pulse sensor to create an efficient heart rate monitoring system. The pulse sensor captures heartbeats and transmits the data to the Arduino for processing.
+
+# Features
+Real-time Heart Rate Monitoring: Displays heart rate on an LCD screen or sends data to a computer for analysis.
+User-friendly Interface: Simple setup for easy monitoring.
+Educational Use: Ideal for learning about sensor integration and health monitoring systems.
+
+# Components Required
+Arduino board (e.g., Arduino Uno), 
+Pulse sensor, 
+LCD display (optional), 
+Breadboard, 
+Connecting wires
