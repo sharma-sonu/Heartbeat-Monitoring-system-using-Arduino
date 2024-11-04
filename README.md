@@ -22,4 +22,6 @@ A heartbeat monitoring system with Arduino works by using an IR sensor to detect
 # Circuit Diagram
 ![Circuit Diagram](https://github.com/user-attachments/assets/3f45d6b9-221b-4700-944a-37c88dd01512)
 
+# Resultt
+![WhatsApp Image 2024-11-04 at 11 30 13 PM](https://github.com/user-attachments/assets/480eca2d-8cf2-4b32-a447-e25bc055720e)
 
